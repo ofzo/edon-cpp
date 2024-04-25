@@ -1,0 +1,5 @@
+exectable("hello_world") {
+  source = [
+    "source/main.cc"
+  ]
+}
