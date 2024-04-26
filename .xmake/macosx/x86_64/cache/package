@@ -1,0 +1,25 @@
+{
+    v8 = {
+        __enabled = false,
+        __requirestr = "v8"
+    },
+    ["json-c"] = {
+        static = true,
+        __enabled = true,
+        __requirestr = "json-c",
+        sysincludedirs = "/Users/roadup/.xmake/packages/j/json-c/0.13.1-20180305/73d4014b2f40423cb773f944523828da/include",
+        libfiles = "/Users/roadup/.xmake/packages/j/json-c/0.13.1-20180305/73d4014b2f40423cb773f944523828da/lib/libjson-c.a",
+        links = "json-c",
+        linkdirs = "/Users/roadup/.xmake/packages/j/json-c/0.13.1-20180305/73d4014b2f40423cb773f944523828da/lib",
+        envs = {
+            LD_LIBRARY_PATH = {
+                "/Users/roadup/.xmake/packages/j/json-c/0.13.1-20180305/73d4014b2f40423cb773f944523828da/lib"
+            },
+            DYLD_LIBRARY_PATH = {
+                "/Users/roadup/.xmake/packages/j/json-c/0.13.1-20180305/73d4014b2f40423cb773f944523828da/lib"
+            }
+        },
+        version = "0.13.1-20180305",
+        installdir = "/Users/roadup/.xmake/packages/j/json-c/0.13.1-20180305/73d4014b2f40423cb773f944523828da"
+    }
+}

@@ -1,0 +1,23 @@
+<application: app.config>: init ..
+<panel(app.config) [0, 0, 166, 24]>: mark as resize
+<application: app.config>: init ok
+<panel(app.config.mconfdialog) [1, 1, 165, 23]>: mark as resize
+<view(window.shadow) [2, 1, 164, 22]>: mark as resize
+<panel(window.frame) [0, 0, 164, 22]>: mark as resize
+<view(window.border) [0, 0, 162, 21]>: mark as resize
+<view(window.title) [0, 0, 11, 1]>: mark as resize
+<panel(window.panel) [0, 0, 162, 21]>: mark as resize
+<panel(dialog.buttons) [0, 18, 160, 19]>: mark as resize
+<view(textdialog.text) [0, 0, 160, 18]>: mark as resize
+<view(textdialog.scrollbar) [159, 0, 160, 18]>: mark as resize
+<panel(boxdialog.box) [0, 3, 160, 18]>: mark as resize
+<panel(window.frame) [0, 0, 160, 15]>: mark as resize
+<view(window.border) [0, 0, 160, 15]>: mark as resize
+<panel(window.panel) [0, 0, 160, 15]>: mark as resize
+<view(select) [0, 0, 10, 1]>: mark as resize
+<view(back) [0, 0, 8, 1]>: mark as resize
+<view(exit) [0, 0, 8, 1]>: mark as resize
+<view(help) [0, 0, 8, 1]>: mark as resize
+<view(save) [0, 0, 8, 1]>: mark as resize
+<view(mconfdialog.scrollbar) [157, 0, 158, 13]>: mark as resize
+<panel(mconfdialog.menuconf) [0, 0, 157, 13]>: mark as resize

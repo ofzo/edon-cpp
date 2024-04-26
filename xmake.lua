@@ -1,0 +1,5 @@
+add_requires("v8")
+add_requires("json-c")
+target("hello")
+set_kind("binary")
+add_files("source/*.cc")

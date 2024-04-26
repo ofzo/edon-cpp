@@ -1,0 +1,6 @@
+{
+    packages = {
+        "/Users/roadup/.xmake/packages/v/v8/10.0.58/e5610bc0525e4ab0802ab881a07a2845",
+        "/Users/roadup/.xmake/packages/j/json-c/0.13.1-20180305/73d4014b2f40423cb773f944523828da"
+    }
+}
